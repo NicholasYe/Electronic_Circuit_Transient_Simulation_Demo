@@ -1,5 +1,5 @@
 
-**This is the program using LC model of switch to simulate the circuit.**
+**This is the program using LC model of switch to simulate the circuit. Source code is not available since it is a lab project.**
 
 ---
 
